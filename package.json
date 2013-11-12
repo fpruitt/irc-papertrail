@@ -1,0 +1,23 @@
+{
+  "name": "irc-papertrail",
+  "version": "0.0.1",
+  "description": "irc logging to papertrailapp.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Laurian/irc-papertrail.git"
+  },
+  "keywords": [
+    "irc",
+    "papertrailapp"
+  ],
+  "author": "Laurian Gridinoc <laurian@gridinoc.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Laurian/irc-papertrail/issues"
+  },
+  "homepage": "https://github.com/Laurian/irc-papertrail"
+}
